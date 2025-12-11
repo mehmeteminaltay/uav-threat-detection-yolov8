@@ -1,0 +1,12 @@
+names:
+- TANK
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: tank-lepry-1qzoa
+  url: https://universe.roboflow.com/project-iu5t5/tank-lepry-1qzoa/dataset/1
+  version: 1
+  workspace: project-iu5t5
+test: ../test/images
+train: ../train/images
+val: ../valid/images
